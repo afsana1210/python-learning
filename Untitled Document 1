@@ -1,0 +1,49 @@
+python
+
+lossely written language
+functional language
+interpreter lang
+python is a lang for non programmer.
+skip the lot of thing you need or ideas to make code simple and fast execute.
+
+
+Different ways of running Python:
+
+Running the old way using editor - using Nano or notepad and running python xxx dot py
+
+Better way of text editor Pycharm, VScode, Sublime
+
+The best way of running Notebook on cloud using Anaconda Jupyter
+
+New ways on Google code labs
+
+
+
+We will use the print command to peep inside everything and see what is happening in background and hence most of the commands in the course will be using print.
+
+
+
+OS:
+
+Windows
+
+Ubuntu
+
+///////////////////////////////////////////////////////////////////////
+Our Motivation to Learn the Language:
+
+Learn a language which has minimal complexity
+
+Jumping into for loop and functions asap!
+
+Python removed a lot of pedantic styles in coding and tries to make a guess of what you want.
+
+The boundaries of code is indentation and not curly brackets
+
+Made for non programmers to write code without getting into complexity
+
+Compared to Java it is 1/4 the code but 4 times slow
+
+The soul of the language is to interpret what you wrote and run it rather than being too strict about the coding rules
+
+
