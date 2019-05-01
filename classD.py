@@ -1,17 +1,18 @@
-class Dog():
+class Dog:
+    def __init__(self,Dbreed,name,spots):
 
- def _init_(self,Dbreed,name,spots):
-   
-   #ATTRIBUTES
-   #WE TAKE IN THE ARGUMENTS
-   #AND ASSIGN IT WITH SELF.ATTRIBUTES_NAME
-  self.breed=Dbreed
-  self.name=name
-  
-  #EXPECT BOOLEAN TRUE/FALSE
-  self.spots=spots
+        
+        #ATTRIBUTES
+        #WE TAKE IN THE ARGUMENTS
+        #AND ASSIGN IT WITH SELF.ATTRIBUTES_NAME
+        self.Dbreed=Dbreed
+        self.name=name
+        #EXPECT BOOLEAN TRUE/FALSE
+        self.spots=spots
 
+        #operation/action -->method
+    def bark(self,number):
+     print('woof!my name is {} and number is{} '.format(self.name,number))    
 my_dog=Dog(Dbreed='lab',name='tom',spots='False')
-my_dog=Dog()
-#my_dog.Dbreed
-
+print(my_dog.Dbreed)
+my_dog.bark(10)
