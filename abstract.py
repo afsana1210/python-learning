@@ -16,6 +16,7 @@ class Cat(Animal):
   def speak(self): 
     return self.name+"says meow!"
 
-    fido=Dog('fido')      
+fido=Dog('fido') 
+sisi=Cat('sisi')     
 
 
