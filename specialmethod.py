@@ -5,7 +5,7 @@ class Book():
     self.author=author
     self.page=page
   
-  #special method
+  #special methodl
   def __str__(self):
    return  self.title+self.author
 
