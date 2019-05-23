@@ -19,7 +19,7 @@ s1.difference_update(s2)
 print s1
 print s1.intersection(s2)
 print s1.intersection_update(s2)
-print s1
 print s1.isdisjoint(s2)
+
 
 
